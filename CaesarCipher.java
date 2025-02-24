@@ -13,23 +13,28 @@ public class CaesarCipher {
 	private char[][] shifted;
 	private int shift;
 
-    public CaesarCipher() {
+    public CaesarCipher()
+    {
 
     }
 
-    public CaesarCipher(int num){
+    public CaesarCipher(int num)
+    {
 
     }
 
-    public String encrypt(String message){
+    public String encrypt(String message)
+    {
+        
+    }
+
+    public String decrypt(String message)
+    {
 
     }
 
-    public String decrypt(String message){
-
-    }
-
-    public void shifter(int num){
+    public void shifter(int num)
+    {
 
     }
 
